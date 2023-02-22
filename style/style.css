@@ -1,0 +1,141 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-image: url(../img/photos.png)
+    
+    
+    
+
+}
+
+
+
+.sheukvete {
+    width: 500px;
+    height: 70px;
+    margin: 20px auto;
+    margin-right: 100px;
+    margin-top: 100px;
+    background-color: #021010;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+
+.register {
+    width: 500px;
+    margin: 20px auto;
+    margin-right: 100px;
+    margin-top: 40px;
+    background-color: none;
+}
+
+.register input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    background-color: rgb(189, 189, 189);
+    color: #000;
+}
+
+.register input[ type="submit"] {
+    background-color: #01AF8C;
+    color: #000;
+    font-size: 20px;
+}
+
+.register input[ type="checkbox"] {
+    width: 5%;
+}
+
+.register textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    background-color: rgb(189, 189, 189);
+    color: #000;
+}
+
+.misamarti {
+    color: #000;
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+.payy {
+    color: #000;
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 5px;
+    margin-top: 1px;
+    margin-bottom: 30px;
+}
+
+.pay {
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.success {
+    width: 550px;
+    height: 350px;
+    margin: 20px auto;
+    margin-right: 100px;
+    margin-top: 100px;
+    background-color: #021010;
+    font-size: 28px;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+
+.shekveta {
+    margin-bottom: 20px;
+    margin-top: 30px;
+
+}
+
+.menejeri {
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.madloba {
+    font-size: 16px;
+    margin-top: 70px;
+}
+
+.gilaki {
+    width: 550px;
+    height: 50px;
+    margin: 20px auto;
+    margin-right: 100px;
+    margin-top: 270px;
+    background-color: #F5BA22;
+    font-size: 16px;
+    color: #000;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 10px;
+    box-shadow: 1px 3px #000000;
+}
